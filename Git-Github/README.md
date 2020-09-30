@@ -1,0 +1,71 @@
+# Curso Git-Github Udemy
+##### Matheus Battisti
+
+#### Aula 01.
+###### Criando repositórios com git.
+###### Enviando repositórios para o github.
+###### Criando arquivo README.md.
+###### Verificando alterações.
+###### Adicionando arquivos ao projeto.
+###### Salvando alterações.
+###### Arquivos especifícos com mensagens.
+###### Enviando vários arquivos para salvar.
+###### Enviando código para o repositório.
+###### Recebendo as mudanças.
+###### Clonando repositórios.
+###### Removendo arquivos.
+###### Renomeando | Movendo arquivos.
+###### Desfazendo alterações.
+###### Ignorando alterações no projeto.
+###### Resetando um branch | Desfazendo todas as alterações.
+
+#### Aula 02.
+###### O que é um branche?
+###### Criando e visualizando branche.
+###### Deletando branche.
+###### Mudando de branche.
+###### Escolher branche.
+###### Unindo branches.
+###### Criando outro branche.
+###### Utilizando a stash.
+###### Recuperando a stash.
+###### Removendo stash.
+###### Utilizando tag
+###### Verificando e alterando tag
+###### Enviando tag ao repositório.
+###### Enviando e compartilhando tags.
+
+#### Aula 03.
+###### Encontrando branches.
+###### Recebendo atualizações | alterações.
+###### Enviando alterações.
+###### Utilizando o remote.
+###### Trabalhando com submódulos.
+###### Atualizando submódulos.
+
+#### Aula 04.
+###### Análise e inspeção de repositórios.
+###### Exibindo diferenças de branches.
+###### Log de atividades.
+
+#### Aula 05.
+###### Limpando arquivos untracked.
+###### Otimizando o repositório.
+###### Checando integridade dos arquivos.
+###### Reflog.
+###### Comprimindo o repositório.
+
+#### Aula 06.
+###### Criando repositório
+###### Verificando código fonte e licenças.
+###### Mudar branche ou criar branche.
+###### A aba issue.
+###### Atualizando projeto por pull request.
+###### Processos de CI|CD no github.
+###### Criando projeto no github.
+###### Criando uma wiki.
+###### Visualizando os dados do projeto.
+###### Configurações do repositórios.
+###### Criando gists.
+###### Criando repositórios interessantes.
+#### Aula 07.
