@@ -1,5 +1,6 @@
 ## Cursos Em Andamento
 
+
 * NOVO PENTEST PROFISSIONAL 2020 (Desec - Security )
 * Python Profissional na Prática (Solyd Treinamentos)
 * Ciência da Computação (CC50)
@@ -7,6 +8,7 @@
 
 
 ## Cursos Concluidos
+
 
 * PENTEST PROFISSIONAL 2018 (Desec - Security )
 * Introdução ao Hacking e pentest 2018 (Solyd Treinamentos)
@@ -23,6 +25,8 @@
 * Curso - Completo de Redes TCP-IP (Udemy - Prof° Gabriel Torres)
 
 ## Certificados
+
+
 * [Geek University - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/geek_university.pdf)
 * [Kali Linux for Beginners - Esecurity](https://github.com/juvenalculino/imagens/blob/master/certificados/esecurity.pdf)
 * [Introdução ao Python - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/introducao_ao_python.pdf)
