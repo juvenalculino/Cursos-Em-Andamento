@@ -23,13 +23,13 @@
 * Curso - Completo de Redes TCP-IP (Udemy - Prof° Gabriel Torres)
 
 ## Certificados
-[Geek University - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/geek_university.pdf)
-[Kali Linux for Beginners - Esecurity](https://github.com/juvenalculino/imagens/blob/master/certificados/esecurity.pdf)
-[Introdução ao Python - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/introducao_ao_python.pdf)
-[Introdução à linguagem HTML - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/introducao_html.pdf)
-[Lógica de Programação - Senai](https://github.com/juvenalculino/imagens/blob/master/certificados/logica_programacao_senai.pdf)
-[Introdução ao Hacking e pentest 2018 - Solyd](https://github.com/juvenalculino/imagens/blob/master/certificados/solyd_treinamentos.pdf)
-[Introdução à programação de computadores - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/Intro_progra_computadores.pdf)
-[Data Science: Visualização de dados com python - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/visualizacao_dados_python.pdf)
+* [Geek University - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/geek_university.pdf)
+* [Kali Linux for Beginners - Esecurity](https://github.com/juvenalculino/imagens/blob/master/certificados/esecurity.pdf)
+* [Introdução ao Python - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/introducao_ao_python.pdf)
+* [Introdução à linguagem HTML - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/introducao_html.pdf)
+* [Lógica de Programação - Senai](https://github.com/juvenalculino/imagens/blob/master/certificados/logica_programacao_senai.pdf)
+* [Introdução ao Hacking e pentest 2018 - Solyd](https://github.com/juvenalculino/imagens/blob/master/certificados/solyd_treinamentos.pdf)
+* [Introdução à programação de computadores - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/Intro_progra_computadores.pdf)
+* [Data Science: Visualização de dados com python - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/visualizacao_dados_python.pdf)
 
 
