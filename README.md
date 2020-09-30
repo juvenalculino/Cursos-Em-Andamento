@@ -6,7 +6,7 @@
 * Python Fundamentos para Análise de Dados (DataScienceAcademy)
 
 
-## Cursos Completos
+## Cursos Concluidos
 
 * PENTEST PROFISSIONAL 2018 (Desec - Security )
 * Mini site ninja (Fernando Bartolomeu)
