@@ -1,3 +1,4 @@
+![Badge](https://img.shields.io/static/v1?label=curso&message=andamento&color=red&style=plastic&logo=Storybook)
 <h2> Cursos Em Andamento </h2>
 
 * [Git-Github](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github)
@@ -6,6 +7,7 @@
 * Ciência da Computação (CC50)
 * Python Fundamentos para Análise de Dados (DataScienceAcademy)
 
+![Badge](https://img.shields.io/static/v1?label=curso&message=concluido&color=green&style=plastic&logo=Slides)
 
 <h2> Cursos Concluidos </h2>
 
@@ -24,6 +26,7 @@
 * Data Science: Visualização de dados com python (Udemy - Prof° Diego Mariano)
 * Curso - Completo de Redes TCP-IP (Udemy - Prof° Gabriel Torres)
 
+![Badge](https://img.shields.io/static/v1?label=certificados&message=ok&color=yellow&style=plastic&logo=Neo4j)
 <h2> Certificados </h2>
 
 
