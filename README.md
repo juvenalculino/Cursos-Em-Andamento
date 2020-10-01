@@ -9,7 +9,7 @@
 
 ![Badge](https://img.shields.io/static/v1?label=cursos&message=concluidos&color=green&style=plastic&logo=Slides)
 
-<h2> Cursos Concluidos </h2>
+<h2> Cursos Concluídos </h2>
 
 * Curso de python (Curso em video)
 * PENTEST PROFISSIONAL 2018 (Desec - Security )
