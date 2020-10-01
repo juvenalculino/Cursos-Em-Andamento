@@ -50,7 +50,7 @@
 ###### Exibindo diferenças de branches.
 ###### Log de atividades.
 
-#### Aula 05.
+#### [Aula 05.](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github/Aula%2005)
 ###### Limpando arquivos untracked.
 ###### Otimizando o repositório.
 ###### Checando integridade dos arquivos.
