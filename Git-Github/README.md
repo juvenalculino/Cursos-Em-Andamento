@@ -1,3 +1,5 @@
+![Badge](https://img.shields.io/static/v1?label=Git&message=Github&color=blue&style=plastic&logo=git)
+
 # Curso Git-Github Udemy
 ##### Matheus Battisti
 
