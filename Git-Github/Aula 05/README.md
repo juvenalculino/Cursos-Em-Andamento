@@ -29,3 +29,7 @@
 > Apenas armazena os commits de um branch
 
 > Os reflogs ficam salvos até expirar o tempo padrão de 30 dias.
+
+## Comprimindo o Repositório
+
+* git archive --format zip -- output master-file.zip
