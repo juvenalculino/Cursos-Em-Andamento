@@ -57,7 +57,7 @@
 ###### Reflog.
 ###### Comprimindo o repositório.
 
-#### Aula 06.
+#### [Aula 06.](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github/Aula%2006)
 ###### Criando repositório
 ###### Verificando código fonte e licenças.
 ###### Mudar branche ou criar branche.
@@ -70,4 +70,4 @@
 ###### Configurações do repositórios.
 ###### Criando gists.
 ###### Criando repositórios interessantes.
-#### Aula 07.
+#### Aula 07. Markdown ( Estes exemplos vou pegar de fora do curso )
