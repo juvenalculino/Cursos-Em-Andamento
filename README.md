@@ -1,4 +1,4 @@
-<h2 align="center"> Cursos Em Andamento </h2>
+<h2> Cursos Em Andamento </h2>
 
 * [Git-Github](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github)
 * NOVO PENTEST PROFISSIONAL 2020 (Desec - Security )
@@ -7,7 +7,7 @@
 * Python Fundamentos para Análise de Dados (DataScienceAcademy)
 
 
-## Cursos Concluidos
+<h2> Cursos Concluidos </h2>
 
 
 * PENTEST PROFISSIONAL 2018 (Desec - Security )
@@ -24,7 +24,7 @@
 * Data Science: Visualização de dados com python (Udemy - Prof° Diego Mariano)
 * Curso - Completo de Redes TCP-IP (Udemy - Prof° Gabriel Torres)
 
-## Certificados
+<h2> Certificados </h2>
 
 
 * [Geek University - Udemy](https://github.com/juvenalculino/imagens/blob/master/certificados/geek_university.pdf)
