@@ -1,3 +1,6 @@
+> BY: Juvenal Culino
+
+> Conteúdo feito para ajudar novos usuários à personalizar seus githubs
 ## Header
 ```
 
@@ -15,6 +18,9 @@ A tag align é usada para alinhar os elementos e assume left por padrão.
 
 
 # Como adicionar badges
+#### [>>> Repositório com os logos <<<](https://simpleicons.org)
+
+
 ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
 <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 <img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/>
@@ -102,7 +108,7 @@ ou ainda:
 
 
 # Emojis
-[Repositório](https://gist.github.com/rxaviers/7360908)
+#### [>>> Repositório com emojis <<<](https://gist.github.com/rxaviers/7360908)
 
 ## O que a plataforma é capaz de fazer :checkered_flag:
 ```
@@ -192,10 +198,18 @@ Ufa, depois de ter mais esse trabalhão escrevendo a documentação podemos faze
    * [Nome do tópico visivel](https://github.com/juvenalculino/Cursos-Em-Andamento/edit/master/Git-Github/Aula%2007/README.md)
 
 
+# Personalizar Perfil página inicial
 
+## Primeiro passo
 
+#### * Criar um repositório com o seu nome de usuário
 
+<img src="https://github.com/juvenalculino/imagens/blob/master/img/Criar-novo-Repositório-1.png">
 
+## Segundo passo
 
+#### * Criar um arquivo README.md e aplicar todas as dicas anteriores
 
+<img src="https://github.com/juvenalculino/imagens/blob/master/img/segundopasso.png">
 
+# BY: Juvenal Culino
