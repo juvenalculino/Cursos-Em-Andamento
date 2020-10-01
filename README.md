@@ -11,7 +11,7 @@
 
 <h2> Cursos Concluidos </h2>
 
-
+* Curso de python (Curso em video)
 * PENTEST PROFISSIONAL 2018 (Desec - Security )
 * Introdução ao Hacking e pentest 2018 (Solyd Treinamentos)
 * Mini site ninja (Fernando Bartolomeu)
