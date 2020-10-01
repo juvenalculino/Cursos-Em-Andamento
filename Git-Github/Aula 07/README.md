@@ -16,9 +16,27 @@ A tag align é usada para alinhar os elementos e assume left por padrão.
 
 # Como adicionar badges
 ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
+<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+<img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/>
+<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=Ruby&message=2.6.3&color=red&style=for-the-badge&logo=ruby"/>
+<img src="http://img.shields.io/static/v1?label=Ruby%20On%20Rails%20&message=6.0.2.2&color=red&style=for-the-badge&logo=ruby"/>
+<img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+
+
 ```
 Podemos fazer isso a partir de uma URL como esta:
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+<img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/>
+<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=Ruby&message=2.6.3&color=red&style=for-the-badge&logo=ruby"/>
+<img src="http://img.shields.io/static/v1?label=Ruby%20On%20Rails%20&message=6.0.2.2&color=red&style=for-the-badge&logo=ruby"/>
+<img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 
 Onde cada parâmetro significa:
 
@@ -155,6 +173,23 @@ Para inserir mais devs, basta adicionais mais colunas.
 [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) |
 | :---: | 
 
+
+# Tabela de conteúdo
+
+```
+Fechando com chave de ouro
+Ufa, depois de ter mais esse trabalhão escrevendo a documentação podemos fazer uma lista de conteúdos (como se fosse um sumário) lá no começo do README.md que irá ajudar o visitante a ir direto ao tópico que ele quer.
+### Tabela de Conteúdos
+   * [Nome do tópico visivel](#nome-do-tópico)
+   * [Nome do tópico visivel](https://www.google.com/)
+
+### Nome do Tópico
+⚠️ Para referenciar o tópico substitua letras maiúsculas por minusculas
+⚠️ Caso o tópico tenha traços, ponto de interrogação e exclamação escreva como se não tivesse, pois o markdown não consegue encontrar.
+⚠️ Caso o tópico esteja acompanhado de um emoji, escreva-o ignorando o simbolo ::
+```
+### Tabela de Conteúdos
+   * [Nome do tópico visivel](https://github.com/juvenalculino/Cursos-Em-Andamento/edit/master/Git-Github/Aula%2007/README.md)
 
 
 
