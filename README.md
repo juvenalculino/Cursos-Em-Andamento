@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/static/v1?label=curso&message=andamento&color=red&style=plastic&logo=Storybook)
+![Badge](https://img.shields.io/static/v1?label=cursos&message=andamento&color=red&style=plastic&logo=Storybook)
 <h2> Cursos Em Andamento </h2>
 
 * [Git-Github](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github)
@@ -7,7 +7,7 @@
 * Ciência da Computação (CC50)
 * Python Fundamentos para Análise de Dados (DataScienceAcademy)
 
-![Badge](https://img.shields.io/static/v1?label=curso&message=concluido&color=green&style=plastic&logo=Slides)
+![Badge](https://img.shields.io/static/v1?label=cursos&message=concluidos&color=green&style=plastic&logo=Slides)
 
 <h2> Cursos Concluidos </h2>
 
