@@ -97,5 +97,13 @@
     * Tabela de conteúdo
     * Personalizar Perfil página inicial
 
+#### :black_large_square: [Aula 08.](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github/Aula%2008)
 
-
+    * Projeto: Portfólio com github pages
+    * Como criar uma página?
+    * Criando Página
+    * Configurações iniciais do projeto
+    * Criando o código HTML
+    * CSS do container da bio
+    * Deixando o Projeto responsivo (para android)
+    * Enviando o protfólio para o repositório
