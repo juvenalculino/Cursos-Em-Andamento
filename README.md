@@ -11,7 +11,7 @@
 <h2> Cursos Concluídos </h2>
 
 * [Git-Github](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github)
-* Curso de python (Curso em video)
+* [Curso de python (Curso em video)](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Curso%20em%20Video)
 * PENTEST PROFISSIONAL 2018 (Desec - Security )
 * Introdução ao Hacking e pentest 2018 (Solyd Treinamentos)
 * Mini site ninja (Fernando Bartolomeu)
