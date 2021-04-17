@@ -1,5 +1,5 @@
 -------------------------------------------
-			DATABASE
+##			DATABASE
 -------------------------------------------
 
 
@@ -27,7 +27,7 @@ use teste;
 
 
 -------------------------------------------
-			TABELAS
+##			TABELAS
 -------------------------------------------
 
 VERIFICANDO TABELAS NO BANCO DE DADOS
@@ -50,7 +50,7 @@ describe teste_um
 
 
 -------------------------------------------
-			INSERT - INSERIR
+##			INSERT - INSERIR
 -------------------------------------------
 
 insert into usuarios (id, nome, situacao) values (1,'admin','root');
@@ -61,7 +61,7 @@ insert into usuarios values ('1','admin','admin');
 
 
 -------------------------------------------
-			SELECT
+##			SELECT
 -------------------------------------------
 
 Selecionar tudo de uma tabela
@@ -87,7 +87,7 @@ select * from usuarios where nome = 'ana';
 
 
 -------------------------------------------
-			WHERE
+##			WHERE
 -------------------------------------------
 Clásula WHERE é usada para restringir os dados (tuplas) que
 serão listados, ou seja, efetuar uma condição para que os dados
@@ -114,7 +114,7 @@ mysql> select * from usuarios where id >= 4 and id <=7;
 
 
 -------------------------------------------
-			ORDER BY
+##			ORDER BY
 -------------------------------------------
 
 Clásula ORDER By altera a ordem de apresentação do resultadp
@@ -141,7 +141,7 @@ select id, nome from usuarios order by id desc, nome asc;
 
 
 -------------------------------------------
-			LIKE
+##			LIKE
 -------------------------------------------
 
 Comando LIKE - pode ser usado para buscar de acordo com a 
@@ -160,7 +160,7 @@ select * from usuarios where nome like '%an%';
 
 
 -------------------------------------------
-			BETWEEN
+##			BETWEEN
 -------------------------------------------
 
 Comando BETWEEN é aplicado para diferenciar intervalos entre dados
@@ -173,7 +173,7 @@ select * from usuarios where id BETWEEN 2 and 5;
 
 
 -------------------------------------------
-			NOT BETWEEN - IN - NOT IN
+##			NOT BETWEEN - IN - NOT IN
 -------------------------------------------
 
 Seleciona tudo que não esta entre 2 e o 5
@@ -190,7 +190,7 @@ select * from usuarios where id not in (1, 5, 8);
 
 
 -------------------------------------------
-			DESCRIBE
+##			DESCRIBE
 -------------------------------------------
 
 Descreve a tabela usuários
@@ -200,7 +200,7 @@ describe usuarios
 
 
 -------------------------------------------
-			DISTINCT
+##			DISTINCT
 -------------------------------------------
 
 Serve para eliminar a duplicidade | exclui repetição
@@ -211,7 +211,7 @@ select distinct nome from usuarios;
 
 
 -------------------------------------------
-			DROP
+##			DROP
 -------------------------------------------
 
 EXCLUIR TABELA
@@ -222,7 +222,7 @@ drop table usered;
 
 
 -------------------------------------------
-			ALTER ADD - ALTER DROP
+##			ALTER ADD - ALTER DROP
 -------------------------------------------
 
 
@@ -239,7 +239,7 @@ alter table usuarios drop codigo_pessoa;
 
 
 -------------------------------------------
-			UPDATE
+##			UPDATE
 -------------------------------------------
 
 Atualiza determinado campo de um atributo
@@ -253,7 +253,7 @@ update usuarios set codigo_pessoa = 2 where id = 4;
 
 
 -------------------------------------------
-			DELETE
+##			DELETE
 -------------------------------------------
 
 O delete é utilizado para apagar determinado registro
@@ -269,7 +269,7 @@ delete from usuarios where nome = 'ana';
 
 
 -------------------------------------------
-			SUM
+##			SUM
 -------------------------------------------
 
 Somando determinado registro ou todos os registros
@@ -285,7 +285,7 @@ select sum(id) as Media from usuarios where codigo_pessoa = 1;
 
 
 -------------------------------------------
-			MIN - MAX - SUM
+##			MIN - MAX - SUM
 -------------------------------------------
 
 Criando colona para inserirmos os dados
@@ -319,8 +319,9 @@ select AVG(valor) as ValorMedia from usuarios;
 
 
 
-
-<h1>			UPPER - LOWER</h1>
+-------------------------------------------
+##			UPPER - LOWER</h1>
+-------------------------------------------
 
 
 Tudo Maiúsculas
@@ -336,7 +337,7 @@ select id, lower(nome), lower(situacao), codigo_pessoa, valor from usuarios;
 
 
 -------------------------------------------
-			PRIMARY KEY
+##			PRIMARY KEY
 -------------------------------------------
 
 Chave primária - Serve para que não possa ter chave identica no banco de dados
@@ -357,7 +358,7 @@ ERROR 1062 (23000): Duplicate entry '1' for key 'usered.PRIMARY'
 
 
 -------------------------------------------
-			FORGEIN KEY
+##			FORGEIN KEY
 -------------------------------------------
 
 No contexto dos banco de dados, o conceito de chave estrangeira ou chave externa 
@@ -391,7 +392,7 @@ Caso o código não exista pode dar problema
 
 
 -------------------------------------------
-			JOIN
+##			JOIN
 -------------------------------------------
 
 Buscando informações de varias tabelas com o comando join
@@ -406,7 +407,7 @@ m tbsql join alunos on alu_cod_curso = sql_codigo;
 
 
 -------------------------------------------
-			UNION
+##			UNION
 -------------------------------------------
 
 Unindo informações de varias tabelas
