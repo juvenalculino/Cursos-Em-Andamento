@@ -12,7 +12,7 @@
 
 * [Git-Github](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github)
 * [Curso de python (Curso em video)](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Curso%20em%20Video)
-* [Curso SQl - Professor Josueldo Pajau](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Curso%20SQL)
+* [Curso SQL - Professor Josueldo Pajau](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Curso%20SQL)
 * PENTEST PROFISSIONAL 2018 (Desec - Security )
 * Introdução ao Hacking e pentest 2018 (Solyd Treinamentos)
 * Mini site ninja (Fernando Bartolomeu)
