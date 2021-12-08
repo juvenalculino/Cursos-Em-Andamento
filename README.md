@@ -14,7 +14,7 @@
 * PENTEST PROFISSIONAL 2020 (Desec - Security )
 * PENTEST PROFISSIONAL 2018 (Desec - Security )
 * Introdução ao Hacking e pentest 2018 (Solyd Treinamentos)
-* * Python Profissional na Prática (Solyd Treinamentos)
+* Python Profissional na Prática (Solyd Treinamentos)
 * Mini site ninja (Fernando Bartolomeu)
 * Programação em Python do básico ao avançado (Geek University)
 * Algoritmos e Lógica de Programação - do básico ao avançado (Geek University)
