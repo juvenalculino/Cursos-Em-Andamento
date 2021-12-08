@@ -30,7 +30,7 @@
 ![Badge](https://img.shields.io/static/v1?label=certificados&message=ok&color=yellow&style=plastic&logo=Neo4j)
 <h2> Certificados </h2>
 
-* [>>> Git-Github <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Git_github.pdf)
+* [>>> Git e GitHub do Básico ao Avançado (c/gist e Github Pages) <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Git_github.pdf)
 * [>>> Geek University - Udemy <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/geek_university.pdf)
 * [>>> Kali Linux for Beginners - Esecurity <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/esecurity.pdf)
 * [>>> Introdução ao Python - Udemy <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/introducao_ao_python.pdf)
@@ -39,5 +39,7 @@
 * [>>> Introdução ao Hacking e pentest 2018 - Solyd <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/solyd_treinamentos.pdf)
 * [>>> Introdução à programação de computadores - Udemy <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Intro_progra_computadores.pdf)
 * [>>> Data Science: Visualização de dados com python - Udemy <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/visualizacao_dados_python.pdf)
+* [>>> Bootcamp Decola Tech <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Avanade_Inicio_Bootcamp.pdf)
+* [>>> Curso de python3 do Básico ao Avancado (com projetos reais) <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/curso_pytohon3_basico_avancado.jpg)
 
 
