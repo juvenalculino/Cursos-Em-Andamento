@@ -1,8 +1,6 @@
 ![Badge](https://img.shields.io/static/v1?label=cursos&message=andamento&color=red&style=plastic&logo=Storybook)
 <h2> Cursos Em Andamento </h2>
 
-* NOVO PENTEST PROFISSIONAL 2020 (Desec - Security )
-* Python Profissional na Prática (Solyd Treinamentos)
 * Ciência da Computação (CC50)
 * Python Fundamentos para Análise de Dados (DataScienceAcademy)
 
@@ -13,9 +11,10 @@
 * [Git-Github](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github)
 * [Curso de python (Curso em video)](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Curso%20em%20Video)
 * [Curso SQL - Professor Josueldo Pajau](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Curso%20SQL)
-* PENTEST PROFISSIONAL 2021 (Desec - Security )
+* PENTEST PROFISSIONAL 2020 (Desec - Security )
 * PENTEST PROFISSIONAL 2018 (Desec - Security )
 * Introdução ao Hacking e pentest 2018 (Solyd Treinamentos)
+* * Python Profissional na Prática (Solyd Treinamentos)
 * Mini site ninja (Fernando Bartolomeu)
 * Programação em Python do básico ao avançado (Geek University)
 * Algoritmos e Lógica de Programação - do básico ao avançado (Geek University)
