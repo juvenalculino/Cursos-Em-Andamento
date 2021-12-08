@@ -41,5 +41,6 @@
 * [>>> Data Science: Visualização de dados com python - Udemy <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/visualizacao_dados_python.pdf)
 * [>>> Bootcamp Decola Tech <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Avanade_Inicio_Bootcamp.pdf)
 * [>>> Curso de python3 do Básico ao Avancado (com projetos reais) <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/curso_pytohon3_basico_avancado.jpg)
+* [>>> Segurança da Informação com Python <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/seguranca_informacao_python.pdf)
 
 
