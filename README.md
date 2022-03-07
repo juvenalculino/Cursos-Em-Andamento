@@ -27,9 +27,10 @@
 * Data Science: Visualização de dados com python (Udemy - Prof° Diego Mariano)
 * Curso - Completo de Redes TCP-IP (Udemy - Prof° Gabriel Torres)
 
-![Badge](https://img.shields.io/static/v1?label=certificados&message=ok&color=yellow&style=plastic&logo=Neo4j)
-<h2> Certificados </h2>
+![Badge](https://img.shields.io/static/v1?label=certificados&message=ok&color=yellow&flat&logo=Python) 
 
+<h2> Certificados </h2>
+* [>>> Bradesco - Linguagem de Programação - Básico <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/bradesco.pdf)
 * [>>> Git e GitHub do Básico ao Avançado (c/gist e Github Pages) <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Git_github.pdf)
 * [>>> Geek University - Udemy <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/geek_university.pdf)
 * [>>> Kali Linux for Beginners - Esecurity <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/esecurity.pdf)
