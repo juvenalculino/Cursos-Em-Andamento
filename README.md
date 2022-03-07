@@ -30,6 +30,7 @@
 ![Badge](https://img.shields.io/static/v1?label=certificados&message=ok&color=yellow&flat&logo=Python) 
 
 <h2> Certificados </h2>
+
 * [>>> Bradesco - Linguagem de Programação - Básico <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/bradesco.pdf)
 * [>>> Git e GitHub do Básico ao Avançado (c/gist e Github Pages) <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Git_github.pdf)
 * [>>> Geek University - Udemy <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/geek_university.pdf)
