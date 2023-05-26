@@ -31,6 +31,12 @@
 
 <h2> Certificados </h2>
 
+* [>>> Computação: Fundamentos - IFRS <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Computa%C3%A7%C3%A3o_Fundamentos-Certificado_digital_1714955.pdf)
+* [>>> Dialogando com as Famílias - Governo Federal <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/DialogandoacomaasaFamilias.pdf)
+* [>>> Violência Contra a Mulher - Governo Federal <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/ViolenciaacontraaaaMulher.pdf)
+* [>>> Produção de Protetores Faciais Através de Impressão 3D - UNIASSELVI <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/certificado%20-%20curso%20Produ%C3%A7%C3%A3o%20de%20protetores%20faciais.pdf)
+* [>>> Brinquedoteca: a prática do curso de Pedagogia - UNIASSELVI <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/novo.pdf)
+
 * [>>> Bradesco - Linguagem de Programação - Básico <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/bradesco.pdf)
 * [>>> Git e GitHub do Básico ao Avançado (c/gist e Github Pages) <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Git_github.pdf)
 * [>>> Geek University - Udemy <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/geek_university.pdf)
