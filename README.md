@@ -35,7 +35,7 @@
 ![Badge](https://img.shields.io/static/v1?label=certificados&message=ok&color=yellow&flat&logo=Python) 
 
 <h2> Certificados </h2>
-* [>>> Bancos de Dados 1: Fundamentos - IFRS <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/bancos_de_dados_1_fundamentos.pdf)
+
 * [>>> Computação: Fundamentos - IFRS <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Computa%C3%A7%C3%A3o_Fundamentos-Certificado_digital_1714955.pdf)
 * [>>> Dialogando com as Famílias - Governo Federal <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/DialogandoacomaasaFamilias.pdf)
 * [>>> Violência Contra a Mulher - Governo Federal <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/ViolenciaacontraaaaMulher.pdf)
