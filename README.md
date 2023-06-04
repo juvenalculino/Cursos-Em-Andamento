@@ -13,8 +13,8 @@
 
 <h2> Cursos Concluídos </h2>
 
-* [Git-Github](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github)
-* [Curso de python (Curso em video)](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Curso%20em%20Video)
+* [Git - Github](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Git-Github)
+* [Curso de Python - Curso em Vídeo](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Curso%20em%20Video)
 * [Curso SQL - Professor Josueldo Pajau](https://github.com/juvenalculino/Cursos-Em-Andamento/tree/master/Curso%20SQL)
 * PENTEST PROFISSIONAL 2020 (Desec - Security )
 * PENTEST PROFISSIONAL 2018 (Desec - Security )
