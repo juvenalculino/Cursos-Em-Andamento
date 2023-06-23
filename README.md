@@ -34,8 +34,11 @@
 
 ![Badge](https://img.shields.io/static/v1?label=certificados&message=ok&color=yellow&flat&logo=Python) 
 
+
 <h2> Certificados </h2>
 
+* [>>> Desenvolvimento Web com Python e Django - DIO Inovation <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/dev_com_python_e_django_21_06_2023.pdf
+)
 * [>>> Computação: Fundamentos - IFRS <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/Computa%C3%A7%C3%A3o_Fundamentos-Certificado_digital_1714955.pdf)
 * [>>> Dialogando com as Famílias - Governo Federal <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/DialogandoacomaasaFamilias.pdf)
 * [>>> Violência Contra a Mulher - Governo Federal <<<](https://github.com/juvenalculino/imagens/blob/master/certificados/ViolenciaacontraaaaMulher.pdf)
